@@ -61,7 +61,11 @@ https://v0-smart-building-analysis-code.vercel.app/
 
 ---
 # 📈 Model Performance
- ![Image](https://github.com/user-attachments/assets/af76645c-4984-4720-8b28-258f04e98da8)
+![Image](https://github.com/user-attachments/assets/44493c7c-5e26-4088-93e5-11f8face5b6c)
+
+![Image](https://github.com/user-attachments/assets/aca2c372-1229-4eae-8c5b-3dee15914215)
+
+![Image](https://github.com/user-attachments/assets/c075a2d0-8810-46e1-a7da-0b974c314849)
 
 ---
 # 🖼 Screenshots of output
