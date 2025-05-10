@@ -14,8 +14,7 @@ A Naan Mudhalvan initiative project designed to optimize building performance th
 - [Architecture Overview](#architecture-overview)
 - [Model Performance](#model-performance)
 - [Screenshots](#screenshots)
-- [Team Members](#team-members)
-- [License](#license)
+- Future work
 
 ---
 
@@ -57,7 +56,23 @@ This project leverages AI and IoT technologies to simulate, monitor, and enhance
 →
 [ Interactive Dashboard ]
 
+https://v0-smart-building-analysis-code.vercel.app/
+
+
 ---
 # 📈 Model Performance
+ ![Image](https://github.com/user-attachments/assets/af76645c-4984-4720-8b28-258f04e98da8)
+
+---
+# 🖼 Screenshots of output
+  ![Image](https://github.com/user-attachments/assets/76916b02-181b-454d-9f79-a481262e728d)
+
+---
+# 💡 Future Work
+- Integration with BIM tools like Revit
+
+- Voice-assisted dashboard controls
+
+- Expansion for city-scale deployment with smart infrastructure
 
 
